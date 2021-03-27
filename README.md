@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnrazablog" alt="mnrazablog" /> </p>
 
-- 🌱 I’m currently learning **VueJs**
+- 🌱 I’m currently learning **Redux**
 
 - 💬 Ask me about **Python and Django**
 
