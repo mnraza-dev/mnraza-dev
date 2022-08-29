@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Redux**
 
-- 💬 Ask me about **Python and Django**
+- 💬 Ask me about **UI Development, Python and Django**
 
 - 📫 How to reach me **mnraza94@gmail.com**
 
