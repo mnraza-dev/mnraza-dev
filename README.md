@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Md Noorullah Raza</h1>
-<h3 align="center">A passionate frontend developer from Jharkhand, India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnrazablog" alt="mnrazablog" /> </p>
 
@@ -17,8 +17,9 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Md Noorullah Raza</h1>
+	 <h3 align="center">A passionate frontend developer from Jharkhand, India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mnrazablog&label=Views&color=blue&style=plastic&style=for-the-badge" alt="mnrazablog" /> </p>
 
 # 💫 About Me :
 - 😄 Pronouns: He/His
