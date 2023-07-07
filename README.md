@@ -1,18 +1,3 @@
-
-
-<h1 align="center">Hi 👋, I'm Md Noorullah Raza</h1>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mnrazablog" alt="mnrazablog" /> </p>
-
-- 🌱 I’m currently learning **Redux**
-
-- 💬 Ask me about **JavaScript, React, Redux and TailwindCSS**
-
-- 📫 How to reach me **mnraza94@gmail.com**
-
-- ⚡ Fun fact **Chai over coffee**
-
 <h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
@@ -24,6 +9,13 @@
 # 💫 About Me :
 - 😄 Pronouns: He/His
 - 🔭 I’m currently building [Frontier](https://frontier.xyz/).
+- 🌱 I’m currently learning **Redux**
+
+- 💬 Ask me about **JavaScript, React, Redux and TailwindCSS**
+
+- 📫 How to reach me **mnraza94@gmail.com**
+
+- ⚡ Fun fact **Chai over coffee**
 - 🌱 I’m currently learning more about BlockChain.
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/hellocodepur).
 - 🤔 I’m looking for help with VelocityX documentation.
