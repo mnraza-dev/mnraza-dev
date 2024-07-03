@@ -2,7 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Md Noorullah Raza</h1>
-	 <h3 align="center">A passionate Full Stack developer from Daltongsnj, Jharkhand, India</h3>
+	 <h3 align="center">A passionate Full Stack developer from <span style="font-weight:bold;"> Daltongsnj, Jharkhand, India </span></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnrazablog&label=Views&color=blue&style=plastic&style=for-the-badge" alt="mnrazablog" /> </p>
 
