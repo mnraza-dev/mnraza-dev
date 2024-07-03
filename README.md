@@ -8,7 +8,7 @@
 
 # 💫 About Me :
 - 😄 Pronouns: He/His
-- 💬 Ask me about ** JavaScript, React, Redux and TailwindCSS ** or any tech-related stuff.
+- 💬 Ask me about ** JavaScript, ReactJS, Redux Toolkit and TailwindCSS ** or any tech-related stuff.
 
 
 - 📫 How to reach me **mnraza94@gmail.com** or Check social links below.
