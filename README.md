@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnrazablog&label=Views&color=blue&style=plastic&style=for-the-badge" alt="mnrazablog" /> </p>
 
 # 💫 About Me :
-- 😄 Pronouns: He/His
+
 - 💬 Ask me about ** JavaScript, ReactJS, Redux Toolkit and TailwindCSS ** or any tech-related stuff.
 
 
