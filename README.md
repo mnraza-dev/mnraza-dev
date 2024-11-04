@@ -16,7 +16,10 @@
 - ⚡ Fun fact **Chai over coffee**
 - 
 ## 📟 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnraza-dev&theme=dark#gh-dark-mode-only)](https://github.com/mnraza-dev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnraza-dev&layout=donut&theme=dark#gh-dark-mode-only)](https://github.com/mnraza-dev/github-readme-stats)
+
+
+
 
 
 ## 🌐 Socials
