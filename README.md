@@ -50,8 +50,9 @@
 </p>
 
 ## 📟 GitHub Stats
+
 <p align="center">
-	
+	  <img src="https://github-readme-stats.vercel.app/api?username=mnraza-dev&hide=contribsprs"/>
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mnraza-dev&show_icons=true&theme=vue" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mnraza-dev&theme=vue" />
 </p>
