@@ -46,13 +46,14 @@
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mnrazablog&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mnraza-dev&theme=vue"/>
 </p>
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mnrazablog&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mnrazablog&theme=vue" />
+	
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mnraza-dev&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mnraza-dev&theme=vue" />
 </p>
 
 ### ✍️Random Dev Quote
