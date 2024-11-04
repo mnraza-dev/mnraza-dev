@@ -14,6 +14,9 @@
 - 📫 How to reach me **mnraza94@gmail.com** or Check social links below.
 
 - ⚡ Fun fact **Chai over coffee**
+- 
+## 📟 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnraza-dev&theme=dark#gh-dark-mode-only)](https://github.com/mnraza-dev/github-readme-stats)
 
 
 ## 🌐 Socials
