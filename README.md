@@ -53,8 +53,8 @@
 ## 📟 GitHub Stats
 
 <p align="center">
-	  <img src="https://github-readme-stats.vercel.app/api?username=mnraza-dev&hide=contribsprs](https://github-readme-stats.vercel.app/api?username=mnraza-dev&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/mnraza-dev/github-readme-stats#gh-dark-mode-only)"/>
-	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=mnraza-dev&theme=dark#gh-dark-mode-only" />
+	  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=mnraza-dev&hide=contribsprs](https://github-readme-stats.vercel.app/api?username=mnraza-dev&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/mnraza-dev/github-readme-stats#gh-dark-mode-only)"/>
+	<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=mnraza-dev&theme=dark#gh-dark-mode-only" />
 </p>
 
 ### ✍️Random Dev Quote
