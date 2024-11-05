@@ -4,7 +4,8 @@
          width="45" /> I'm Md Noorullah Raza</h1>
 	 <h3 align="center">A passionate developer from <span style="font-weight:bold;"> Jharkhand, India </span></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mnrazablog&label=Views&color=blue&style=plastic&style=for-the-badge" alt="mnrazablog" /> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=mnraza-dev&icon=0&color=1)](https://visitcount.itsvg.in)
 
 # 💫 About Me :
 
@@ -16,9 +17,6 @@
 - ⚡ Fun fact **Chai over coffee**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnraza-dev&layout=donut&theme=dark#gh-dark-mode-only)](https://github.com/mnraza-dev/github-readme-stats)
-
-
-
 
 
 ## 🌐 Socials
@@ -66,7 +64,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iampawan&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mnraza-dev&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <div align="center">
 
