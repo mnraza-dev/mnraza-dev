@@ -2,17 +2,17 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Md Noorullah Raza</h1>
-	 <h3 align="center">A passionate developer from <span style="font-weight:bold;"> Jharkhand, India </span></h3>
+	 <h3 align="center">A passionate Software developer from <span style="font-weight:bold;"> Jharkhand, India </span></h3>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mnraza-dev&icon=0&color=1)](https://visitcount.itsvg.in)
 
 # 💫 About Me :
 
-- 💬 Ask me about ** JavaScript, ReactJS, Redux Toolkit  ** or any tech-related stuff.
+- 💬 Ask me about ** JavaScript, ReactJS, React Native  ** or any tech-related stuff.
 
 
-- 📫 How to reach me **mnraza94@gmail.com** or Check social links below.
+- 📫 How to reach me **mnraza1907@gmail.com** or Check social links below.
 
 - ⚡ Fun fact **Chai over coffee**
 
