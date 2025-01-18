@@ -10,14 +10,12 @@
 # 💫 About Me :
 
 - 💬 Ask me about ** JavaScript, ReactJS, React Native  ** or any tech-related stuff.
-
-
+- 
 - 📫 How to reach me **mnraza1907@gmail.com** or Check social links below.
 
 - ⚡ Fun fact **Chai over coffee**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnraza-dev&layout=donut&theme=dark#gh-dark-mode-only)](https://github.com/mnraza-dev/github-readme-stats)
-
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mnraza_)
@@ -54,7 +52,6 @@
 ## 💳 Github Profile Summary Card
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mnraza-dev&theme=dark#gh-dark-mode-only"/>
-	
 </p>
 
 ## 📟 GitHub Stats
