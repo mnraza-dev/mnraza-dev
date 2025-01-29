@@ -10,7 +10,6 @@
 # 💫 About Me :
 
 - 💬 Ask me about ** JavaScript, ReactJS, React Native  ** or any tech-related stuff.
-- 
 - 📫 How to reach me **mnraza1907@gmail.com** or Check social links below.
 
 - ⚡ Fun fact **Chai over coffee**
