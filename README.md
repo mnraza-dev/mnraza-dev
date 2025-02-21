@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **Chai over coffee**
 
-  ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) 
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://mnraza.vercel.app/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnraza-dev&layout=donut&theme=dark#gh-dark-mode-only)](https://github.com/mnraza-dev/github-readme-stats)
 
