@@ -122,7 +122,17 @@
 </p>
 
 
-  
+  # 🚀 Languages & Tools  
+
+| ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) **HTML5** | ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) **CSS3** | ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) **JavaScript** |
+|:--:|:--:|:--:|
+| ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) **TypeScript** | ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) **React.js** | ![TailwindCSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg) **Tailwind CSS** |
+| ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg) **Bootstrap** | ![Redux](https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg) **Redux** | ![Context API](https://img.shields.io/badge/Context%20API-000000?style=flat&logo=react) **Context API** |
+| ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=flat&logo=zod&logoColor=white) **Zod** | ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg) **Node.js** | ![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg) **Express.js** |
+| ![Fastify](https://upload.wikimedia.org/wikipedia/commons/3/37/Fastify-logo.png) **Fastify** | ![Django](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg) **Django** | ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg) **MongoDB** |
+| ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) **Supabase** | ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg) **PostgreSQL** | ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg) **Docker** |
+| ![Jest](https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg) **Jest** | ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) **Postman** |  |
+
 ## 💳 Github Profile Summary Card
 <p align="center">
 	<img width="40%" src="https://github-readme-stats.vercel.app/api?username=mnraza-dev&hide=contribsprs](https://github-readme-stats.vercel.app/api?username=mnraza-dev&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/mnraza-dev/github-readme-stats#gh-dark-mode-only)"/>
