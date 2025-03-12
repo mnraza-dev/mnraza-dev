@@ -24,43 +24,103 @@
 
 </p>
 
-  ## 🚀 Languages and Tools  
+# 🚀 Languages & Tools  
 
-### 🖥️ Frontend Technologies  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20"/> **HTML5**  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20"/> **CSS3**  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20"/> **JavaScript**  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="20"/> **TypeScript**  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20"/> **React.js**  
-- <img src="https://reactnative.dev/img/header_logo.svg" width="20"/> **React Native**  
+<style>
+.tech-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 5px 0;
+}
+.tech-container img {
+  width: 30px;
+  height: 30px;
+}
+</style>
 
-### 🔧 State Management Tools  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="20"/> **Redux**  
-- <img src="https://img.shields.io/badge/Context%20API-000000?style=flat&logo=react" width="20"/> **Context API**  
-- <img src="https://img.shields.io/badge/zod-%233068b7.svg?style=flat&logo=zod&logoColor=white" width="20"/> **Zod**  
+## 🎨 Frontend Technologies  
+<p class="tech-container">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/> <b>HTML5</b>
+</p>
+<p class="tech-container">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/> <b>CSS3</b>
+</p>
+<p class="tech-container">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/> <b>JavaScript</b>
+</p>
+<p class="tech-container">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/> <b>TypeScript</b>
+</p>
+<p class="tech-container">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/> <b>React.js</b>
+</p>
 
-### 🎨 CSS Frameworks  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="20"/> **Tailwind CSS**  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="20"/> **Bootstrap**
-- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+---
 
-### 🏗️ Backend Technologies  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="20"/> **Node.js**  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="20"/> **Express.js**  
-- <img src="https://www.vectorlogo.zone/logos/fastifyjs/fastifyjs-icon.svg" width="20"/> **Fastify**  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="20"/> **Django**  
-- <img src="https://img.shields.io/badge/Django%20Rest%20API-%23092E20.svg?style=flat&logo=django&logoColor=white" width="20"/> **Django Rest API**  
+## 🎨 CSS Frameworks  
+<p class="tech-container">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"/> <b>Tailwind CSS</b>
+</p>
+<p class="tech-container">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/> <b>Bootstrap</b>
+</p>
 
-### 🗄️ Databases  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="20"/> **MongoDB**  
-- <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" width="20"/> **Supabase**  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="20"/> **PostgreSQL**  
-- <img src="https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=flat&logo=appwrite&logoColor=white" width="20"/> **Appwrite**  
+---
 
-### ⚙️ DevOps & Testing  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="20"/> **Docker**  
-- <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="20"/> **Jest**  
-- <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="20"/> **Postman**  
+## ⚡ State Management  
+<p class="tech-container">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"/> <b>Redux</b>
+</p>
+<p class="tech-container">
+  <img src="https://img.shields.io/badge/Context%20API-000000?style=flat&logo=react"/> <b>Context API</b>
+</p>
+<p class="tech-container">
+  <img src="https://img.shields.io/badge/zod-%233068b7.svg?style=flat&logo=zod&logoColor=white"/> <b>Zod</b>
+</p>
+
+---
+
+## 🏗️ Backend Technologies  
+<p class="tech-container">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/> <b>Node.js</b>
+</p>
+<p class="tech-container">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"/> <b>Express.js</b>
+</p>
+<p class="tech-container">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Fastify-logo.png"/> <b>Fastify</b>
+</p>
+<p class="tech-container">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"/> <b>Django</b>
+</p>
+
+---
+
+## 🗄️ Databases  
+<p class="tech-container">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/> <b>MongoDB</b>
+</p>
+<p class="tech-container">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/> <b>Supabase</b>
+</p>
+<p class="tech-container">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/> <b>PostgreSQL</b>
+</p>
+
+---
+
+## ⚙️ DevOps & Testing  
+<p class="tech-container">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/> <b>Docker</b>
+</p>
+<p class="tech-container">
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"/> <b>Jest</b>
+</p>
+<p class="tech-container">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/> <b>Postman</b>
+</p>
+
 
   
 ## 💳 Github Profile Summary Card
