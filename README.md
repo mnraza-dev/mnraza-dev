@@ -16,9 +16,9 @@
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://mnraza.vercel.app/)
 
-## 📊 Top Langs
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushparikh-code&theme=dark#gh-dark-mode-only" align="center" />
+## 📊 Top Programming Languages
+<p align="left">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnraza-dev&theme=dark#gh-dark-mode-only" align="" />
 </p>
 <details> <summary align="center"> </samp></summary><b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
 ---
@@ -82,4 +82,3 @@
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
-
