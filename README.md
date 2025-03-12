@@ -23,7 +23,45 @@
 <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=mnraza-dev&theme=dark#gh-dark-mode-only" />
 
 </p>
-  
+
+  ## 🚀 Languages and Tools  
+
+### 🖥️ Frontend Technologies  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20"/> **HTML5**  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20"/> **CSS3**  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20"/> **JavaScript**  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="20"/> **TypeScript**  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20"/> **React.js**  
+- <img src="https://reactnative.dev/img/header_logo.svg" width="20"/> **React Native**  
+
+### 🔧 State Management Tools  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="20"/> **Redux**  
+- <img src="https://img.shields.io/badge/Context%20API-000000?style=flat&logo=react" width="20"/> **Context API**  
+- <img src="https://img.shields.io/badge/zod-%233068b7.svg?style=flat&logo=zod&logoColor=white" width="20"/> **Zod**  
+
+### 🎨 CSS Frameworks  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="20"/> **Tailwind CSS**  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="20"/> **Bootstrap**
+- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+
+### 🏗️ Backend Technologies  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="20"/> **Node.js**  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="20"/> **Express.js**  
+- <img src="https://www.vectorlogo.zone/logos/fastifyjs/fastifyjs-icon.svg" width="20"/> **Fastify**  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="20"/> **Django**  
+- <img src="https://img.shields.io/badge/Django%20Rest%20API-%23092E20.svg?style=flat&logo=django&logoColor=white" width="20"/> **Django Rest API**  
+
+### 🗄️ Databases  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="20"/> **MongoDB**  
+- <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" width="20"/> **Supabase**  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="20"/> **PostgreSQL**  
+- <img src="https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=flat&logo=appwrite&logoColor=white" width="20"/> **Appwrite**  
+
+### ⚙️ DevOps & Testing  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="20"/> **Docker**  
+- <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="20"/> **Jest**  
+- <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="20"/> **Postman**  
+
   
 ## 💳 Github Profile Summary Card
 <p align="center">
@@ -34,44 +72,6 @@
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mnraza_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mnraza19)  [![Twitter](https://img.shields.io/twitter/follow/mdnoorullahraza?logo=Twitter&style=for-the-badge)](https://x.com/mnraza1907)
-
-## 🚀 Languages and Tools
-
-### 🖥️ Frontend Technologies  
-- ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) **HTML5**
-- ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) **CSS3**
-- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) **JavaScript**
-- ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) **TypeScript**
-- ![React.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) **React.js**
-- ![React Native](https://reactnative.dev/img/header_logo.svg) **React Native**
-
-### 🔧 State Management Tools  
-- ![Redux](https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg) **Redux**
-- ![Context API](https://img.shields.io/badge/Context%20API-000000?style=for-the-badge&logo=react) **Context API**
-- ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white) **Zod**
-
-### 🎨 CSS Frameworks  
-- ![TailwindCSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg) **Tailwind CSS**
-- ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg) **Bootstrap**
-
-### 🏗️ Backend Technologies  
-- ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg) **Node.js**
-- ![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg) **Express.js**
-- ![Fastify](https://www.vectorlogo.zone/logos/fastifyjs/fastifyjs-icon.svg) **Fastify**
-- ![Django](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg) **Django**
-- ![Django Rest Framework](https://img.shields.io/badge/Django%20Rest%20API-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) **Django Rest API**
-
-### 🗄️ Databases  
-- ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg) **MongoDB**
-- ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) **Supabase**
-- ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg) **PostgreSQL**
-- ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) **Appwrite**
-
-### ⚙️ DevOps & Testing  
-- ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg) **Docker**
-- ![Jest](https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg) **Jest**
-- ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) **Postman**
-
 
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -88,7 +88,7 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
 
 ### 🚀 CSS Frameworks  
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
 ### 🌏 Backend Technologies
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
