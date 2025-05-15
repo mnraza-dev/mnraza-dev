@@ -16,7 +16,7 @@
 ## 📟 GitHub Streaks & ✨ Top Programming Languages
 
 <p align="left">
-  <img width="45%" height="15%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnraza-dev&theme=dark#gh-dark-mode-only" />
+  <img width="45%" height="15%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnraza-dev&langs_count=8&theme=dark#gh-dark-mode-only" />
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mnraza-dev&theme=dark#gh-dark-mode-only" />
 </p>
 
