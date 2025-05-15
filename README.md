@@ -12,6 +12,7 @@
 - ⚡ Fun fact: **Chai over coffee**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://mnraza.vercel.app/)
+
 ## ✨ Top Programming Languages
 <img  width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnraza-dev&layout=pie&langs_count=8&theme=dark#gh-dark-mode-only" />
 
@@ -22,6 +23,7 @@
 	
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=mnraza-dev&hide=contribsprs](https://github-readme-stats.vercel.app/api?username=mnraza-dev&prs_merged&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/mnraza-dev/github-readme-stats#gh-dark-mode-only)"/>
   <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=mnraza-dev&theme=dark#gh-dark-mode-only" />
+<img width="1000" src="https://github-profile-trophy.vercel.app/?username=mnraza-dev&theme=dark&no-bg=true" />
  
 </p>
 
