@@ -42,7 +42,7 @@
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mnraza_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mnraza19)
-[![Twitter](https://img.shields.io/twitter/follow/mdnoorullahraza?logo=Twitter&style=for-the-badge)]([https://x.com/mnraza1907](https://x.com/noorullahraza1))
+[![Twitter](https://img.shields.io/twitter/follow/mdnoorullahraza?logo=Twitter&style=for-the-badge)](https://x.com/noorullahraza1)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
