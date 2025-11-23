@@ -8,7 +8,7 @@
 # 💫 About Me
 
 - 💬 Ask me about **JavaScript, ReactJS, React Native** or any tech-related stuff.
-- 📫 How to reach me: **mnraza1907@gmail.com** or check social links below.
+- 📫 How to reach me: **mnraza.dev@gmail.com** or check social links below.
 - ⚡ Fun fact: **Chai over coffee**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://mnraza.vercel.app/)
@@ -40,9 +40,8 @@
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/> <br> **Docker** | <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40"/> <br> **Jest** | <img src="https://imgs.search.brave.com/6yVPZgco0uM9jlFPwSBzsDgeFg3hG49m0ZpTw5Rm4MQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jYW1v/LmdpdGh1YnVzZXJj/b250ZW50LmNvbS83/MjhkYWI1NGU4MWNm/MjljNTZlMTkzYThm/NjdiODQzOGJhZjE0/ZDcxYmExOGEwMTU1/OTVkYWVjZGRjM2Jl/MWNjLzY4NzQ3NDcw/NzMzYTJmMmY2MzY0/NmUyZTZhNzM2NDY1/NmM2OTc2NzIyZTZl/NjU3NDJmNjc2ODJm/NzM3NDZmNzI3OTYy/NmY2ZjZiNmE3MzJm/NjI3MjYxNmU2NDQw/NmQ2MTY5NmUyZjYy/NjE2NDY3NjUyZjYy/NjE2NDY3NjUyZDcz/NzQ2ZjcyNzk2MjZm/NmY2YjJlNzM3NjY3" width="40"/> <br> **Storybook** | <img src="https://imgs.search.brave.com/M__owlMCbfiuNLQ_PfP2iToOD4lfU4387EePO8WajiQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naXRo/dWIuY29tL3VzZXIt/YXR0YWNobWVudHMv/YXNzZXRzLzA0MDRj/N2ExLWMyOWQtNDc4/NS04OWFlLWFhZTMx/NWYzYzc1OQ" width="40"/> <br> **Framer Motion** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" width="40"/> <br> **ESLint** | <img src="https://prettier.io/icon.png" width="40"/> <br> **Prettier** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> <br> **Python** |
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mnraza_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mnraza19)
-[![Twitter](https://img.shields.io/twitter/follow/mdnoorullahraza?logo=Twitter&style=for-the-badge)](https://x.com/noorullahraza1)
+[![Twitter](https://img.shields.io/twitter/follow/mdnoorullahraza?logo=Twitter&style=for-the-badge)](https://x.com/mnraza_codes)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
